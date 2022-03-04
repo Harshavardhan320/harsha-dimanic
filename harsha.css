@@ -1,0 +1,32 @@
+.header{                            /*header path*/
+    text-align:center;
+    color:#f1f1f1;
+    background-color:#0000ff;
+    border:2px solid black;
+    border-radius:10px;
+    padding:0%;
+}
+h2,h3{
+    font-style:normal;
+    color:#f11010;
+}
+p{
+    font-style:normal;
+    line-height:150%;
+}
+table {
+    font-style:normal;
+     border-collapse: collapse;
+     width: 100%;
+}
+
+td, th {
+    border: 1px solid #f11010;
+    text-align:left;
+    padding:4px;
+}
+.para {
+    font-family:'Times New Roman', Times, serif;
+    background-color:#0000ff;
+    color:white;
+}
